@@ -1,8 +1,8 @@
 #!/bin/sh
 echo "Your public IPv4 is:"
-curl -4 https://mhog.nl/checkip.php
+curl -4 https://ipv4.icanhazip.com
 echo ""
 echo ""
 echo "Your public IPv6 is:"
-curl -6 https://mhog.nl/checkip.php
+curl -6 https://ipv6.icanhazip.com
 echo ""
